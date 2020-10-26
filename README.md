@@ -1,4 +1,4 @@
-# { name } resume
+# AKIRA HASEGAWA's resume
 
 ## Sample
 
